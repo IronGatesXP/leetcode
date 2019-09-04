@@ -30,4 +30,6 @@ public class A {
     // git reset 3
 
     // git reset 4
+
+    // git reset 5
 }
