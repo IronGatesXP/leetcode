@@ -24,4 +24,6 @@ public class A {
 
 
     // 测试git reset1
+
+    // test git reset2
 }
