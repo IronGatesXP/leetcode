@@ -28,4 +28,6 @@ public class A {
     // test git reset2
 
     // git reset 3
+
+    // git reset 4
 }
