@@ -12,6 +12,7 @@ public class SecondThread {
             if (i == 20) {
                 new Thread(r, "新线程1").start();
                 new Thread(r, "新线程2").start();
+
             }
         }
     }
